@@ -2,8 +2,8 @@
   "name": "com.jojo.stick-weapon-trail-effect",
   "version": "1.0.0",
   "displayName": "Stick Weapon Trail Effect",
+  "description": "A Unity package that brings procedural weapon trail effect to your project with one component.",
   "unity": "2019.4",
-  "unityRelease": "12f1",
   "dependencies": {
     "com.unity.mathematics": "1.2.1",
     "com.unity.burst": "1.5.0"
@@ -12,5 +12,9 @@
   "author": {
     "name": "jojo59516",
     "email": "ycbuaa2011@buaa.edu.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jojo59516/StickWeaponTrailEffect.git"
   }
 }
